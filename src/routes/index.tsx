@@ -17,8 +17,6 @@ import { SiteHeader, navItems as nav } from "@/components/SiteHeader";
 import storynest from "@/assets/storynest.PNG";
 import footballPack from "@/assets/football-pack.PNG";
 import musicalCrochet from "@/assets/musical-crochet.PNG";
-
-
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
